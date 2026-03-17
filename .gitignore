@@ -1,0 +1,29 @@
+# Python venv (this workspace is a venv)
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Alternative venv locations
+.venv/
+venv/
+
+# Python cache / artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Tools / editor junk
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Streamlit / misc cache
+.streamlit/
+
+etc/
+share/
+
